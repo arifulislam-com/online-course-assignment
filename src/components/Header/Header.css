@@ -1,0 +1,39 @@
+.loginArea{
+    background-color: black;
+    font-size: 20px;
+    text-align: right;
+    padding: 10px;
+}
+.loginArea a{
+color: white;
+text-decoration: none;
+margin-right: 100px;
+padding: 10px;
+}
+.loginArea a:hover{
+    background-color: gray;
+}
+.mainheader{
+    text-align: center;
+    background-image: url("https://www.peoplentech.com.bd/asset/images/course.jpg");
+    background-color: lightgray;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 160px;
+}
+.naveBar {
+	background: linear-gradient(90deg,#4d4741,#e52e71);
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    height: 50px;
+}
+.naveBar a{
+    color: white;
+    text-decoration: none;
+    margin-right: 100px;
+    padding: 10px;
+}
+.naveBar a:hover{
+    color: white;
+}

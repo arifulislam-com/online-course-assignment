@@ -1,0 +1,18 @@
+.courses{
+    margin: 50px;
+    border: 1px solid lightgray;
+    background-color: rgb(235, 235, 235);
+    border-radius: 5px;
+}
+img{
+    width: 400px;
+}
+.mainBtn{
+    font-size: 20px;
+    width: 270px;
+    height: 38px;
+    background-color: #ee4a86;
+    border-radius: 7px;
+    color: white;
+    cursor: pointer;
+}

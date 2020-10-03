@@ -1,0 +1,16 @@
+.Container{
+    display: flex;
+}
+.coureseComponent{
+    text-align: center;
+    display: block;
+    width: 80%;
+    border-right: 1px solid gray;
+    float: left;
+}
+.cart{
+    width: 20%;
+}
+.cart{
+    margin: 20px;
+}
